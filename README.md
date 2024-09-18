@@ -16,10 +16,10 @@ Projeto de criação e implementação de uma pesquisa de satisfação e anális
 <h5 align="center">Páginas principais do Dashboard:</h5>
 </p>
 <p>
-    <img src="https://github.com/user-attachments/assets/5d8a86fd-4af2-467f-973b-0c827f3a38e6" width="400px" />
-    <img src="https://github.com/user-attachments/assets/01600ce1-fba2-4b49-9f06-87c1c012acf6" width="400px" />
-    <img src="https://github.com/user-attachments/assets/b331c14e-a5a3-46ce-80d0-0e05ac73448d" width="400px" />
-    <img src="https://github.com/user-attachments/assets/0c89bd7e-a189-4a41-b62f-a536b1de53dc" width="400px" />
+    <img src="https://github.com/user-attachments/assets/5d8a86fd-4af2-467f-973b-0c827f3a38e6" width="405px" />
+    <img src="https://github.com/user-attachments/assets/01600ce1-fba2-4b49-9f06-87c1c012acf6" width="405px" />
+    <img src="https://github.com/user-attachments/assets/b331c14e-a5a3-46ce-80d0-0e05ac73448d" width="405px" />
+    <img src="https://github.com/user-attachments/assets/0c89bd7e-a189-4a41-b62f-a536b1de53dc" width="405px" />
 </p>
 <hr>
 
