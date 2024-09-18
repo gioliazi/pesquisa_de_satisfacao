@@ -24,3 +24,20 @@ Projeto de criação e implementação de uma pesquisa de satisfação e anális
 <hr>
 
 <h2 align="Left">Estrutura do projeto: </h2>
+<h3 align="Left">Tecnologias utilizadas: </h3>
+
+- Formulário Planilha do Google
+
+- Power Bi
+
+
+  </a> <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Google_Forms_Logo_512px.png" alt="Power Bi" width="30" height="40"/>
+  </a> &nbsp;
+  </a> •
+  </a> &nbsp;
+  </a> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968557.png" alt="Power Bi" width="40" height="40"/>
+  </a> &nbsp;
+  </a> •
+  </a> &nbsp;
+  </a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power Bi" width="40" height="40"/>
+    
