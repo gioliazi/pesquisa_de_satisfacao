@@ -21,6 +21,7 @@ Projeto de criação e implementação de uma pesquisa de satisfação e anális
     <img src="https://github.com/user-attachments/assets/b331c14e-a5a3-46ce-80d0-0e05ac73448d" width="410px" />
     <img src="https://github.com/user-attachments/assets/0c89bd7e-a189-4a41-b62f-a536b1de53dc" width="410px" />
 </p>
+Obs: as imagens foram alteradas para não mostrar informações sensíveis, por isso não seram disponibilizados os arquivos do Dashboard nesse caso.
 <hr>
 
 <h2 align="Left">Estrutura do projeto: </h2>
