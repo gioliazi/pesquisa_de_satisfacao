@@ -40,4 +40,6 @@ Projeto de criação e implementação de uma pesquisa de satisfação e anális
   </a> •
   </a> &nbsp;
   </a> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power Bi" width="40" height="40"/>
-    
+
+<h3 align="Left">Implementação: </h3>
+Ao responder o formulário online, os dados são transmitidos automáticamente para uma planilha online vinculada ao Power BI.
